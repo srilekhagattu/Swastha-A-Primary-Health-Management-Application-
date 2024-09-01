@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SignUpPatientController">
+   <children>
+      <Label alignment="CENTER" layoutX="114.0" layoutY="41.0" prefHeight="34.0" prefWidth="372.0" text="SignUp for Patient">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="35.0" layoutY="100.0" text="Name" />
+      <TextField fx:id="Name" layoutX="78.0" layoutY="96.0" />
+      <Label layoutX="31.0" layoutY="144.0" text="Gender" />
+      <Label layoutX="29.0" layoutY="183.0" text="Pincode" />
+      <TextField fx:id="Pincode" layoutX="78.0" layoutY="179.0" />
+      <Label layoutX="308.0" layoutY="101.0" text="Date Of Birth" />
+      <DatePicker fx:id="DOB" layoutX="393.0" layoutY="96.0" />
+      <Label layoutX="328.0" layoutY="144.0" text="Address" />
+      <TextField fx:id="Address" layoutX="393.0" layoutY="141.0" />
+      <Label layoutX="309.0" layoutY="183.0" text="Blood Group" />
+      <ChoiceBox fx:id="BloodGroup" layoutX="393.0" layoutY="180.0" prefWidth="150.0" />
+      <Label layoutX="6.0" layoutY="227.0" text="Height (in ft)" />
+      <TextField fx:id="Height" layoutX="78.0" layoutY="223.0" />
+      <Label layoutX="304.0" layoutY="227.0" text="Weight (in Kg)" />
+      <TextField fx:id="Weight" layoutX="393.0" layoutY="223.0" />
+      <Label layoutX="37.0" layoutY="275.0" text="Email" />
+      <TextField fx:id="Email" layoutX="78.0" layoutY="271.0" />
+      <Label layoutX="328.0" layoutY="275.0" text="Password" />
+      <Button fx:id="SignUp" defaultButton="true" layoutX="338.0" layoutY="331.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="71.0" text="Sign Up">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <ChoiceBox fx:id="Gender" layoutX="83.0" layoutY="140.0" prefWidth="150.0" />
+      <PasswordField fx:id="Password" layoutX="393.0" layoutY="271.0" />
+      <Button fx:id="Back" defaultButton="true" layoutX="184.0" layoutY="335.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="71.0" text="Back" />
+   </children>
+</AnchorPane>

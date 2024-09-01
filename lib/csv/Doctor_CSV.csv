@@ -1,0 +1,20 @@
+Hospital_ID,Name,Gender,DateOfBirth,Specialization,Email,Password,Address,Pincode,Fees
+H101,Hruday Balbar,M,1999-10-24,ENT,hruday.23@gmail.com,hruday,Apt 45 Ram Nagar Colony Sampangi Street Chittoor Andhra Pradesh India,517001,1200.00
+H102,Jasmine Khanna,F,1990-09-21,PATHOLOGY,jasmine211@yahoo.com,jasmine123,Sai Ram Street Apt 76 Opp. Hanuman Junction Raipur Kerala India,600990,3600.00
+H103,Vijay Malya,M,1994-07-09,PEDIATRICS,vijay123@yahoo.com,vijay-090,92083 Coleman Orchard Hartmantown MS 74126 Panaji Goa India,870021,2300.00
+H104,Kameron Green,M,1989-12-12,IMMUNOLOGY,green21@gmail.com,kameron900,1498 Tonya Locks Joycefort PA 64661 City of Joy West Bengal India,123432,2100.00
+H105,Wasim Jaffer,M,1985-02-21,EMERGENCY,jafferwasim@gmail.com,jaffer90-98,Hanuman Junction Market Rd Big C Chittoor Andhra Pradesh,111008,6000.00
+H106,Preresh Gupta,M,2000-10-20,GYNECOLOGY,preresh.sk21@gmail.com,preresh78-00,Camerine Bridge Sampangi Street Bangalore Karnataka India,517001,1500.00
+H107,Mayank Thakur,M,1998-03-05,NUEROLOGY,mayank9001@yahoo.com,mayank8965,9008-bridgeton Cameroon Gateway Mumbai Maharastra India,518009,6700.00
+H108,Prithvi Shaw,M,2000-11-07,ANESTHESIOLOGY,prithvi@gmail.com,pshaw23,375 Amber View Apt. 236 New Mark DE 41550 Hyderabad Andhra Pradesh India,616001,3450.00
+H109,Aldolf Gut,M,1996-09-21,ENT,adolf.gut21@yahoo.com,adolf7684,Unit 7063 Box 3209 DPO AP 93518 Thiruvananthapuram Kerala India,900211,2110.00
+H110,Sarayu Bamesh,F,1981-03-21,ONCOLOGY,sarayubamesh123@gmail.com,sary900,PSC -6868 Box 0381 APO AA 04247 City of Joy West Bengal India,908765,9000.00
+H108,Venkat Chalapathi,M,1999-05-14,DERMATOLOGY,venkat21@gmail.com,venkat567,21009 Emily Brooks South Carrieburgh NY 22723 Panaji Goa India,324110,3560.00
+H105,Virat Sinha,M,1990-12-03,PATHOLOGY,viratsinha234@yahoo.com,virat71,706 Farley Track Apt. 157 Jessicaport AK 94959 City of Joy West Bengal India,450099,2134.00
+H102,Kamalesh Nagarkoti,M,2001-10-29,OPTHALMOLOGY,kamalesh.nagarkoti21@gmail.com,nagar56-009,USS Horton FPO AP 81503 Panaji Goa India,210900,2200.00
+H107,Maninder Singh,M,1999-06-21,PATHOLOGY,maninderpkl1021@gmail.com,singh89,373 David Flats Apt. 136 West James VT 27731 Hyderabad Andhra Pradesh India,210089,9500.00
+H103,Victoria,F,1995-11-11,DENTISTRY,victoriawar22@gmail.com,victori-090-00987,0431 Evans Rapids Suite 375 Port Jenniferberg KY 80086 Shimla Himachal Pradesh India,690011,2100.00
+H110,Laya Thomas ,F,1992-07-24,ENT,laya.g11@gmail.com,laya78-09,0793 Merritt Loaf Vincentmouth TN 96759 Tirupati Andhra Pradesh India,112233,6000.00
+H101,Mehreen Khanna,F,1998-07-07,NUEROLOGY,mehreen90@gmail.com,mehreen123,8637 Baker Centers South Danielburgh MS 86279 Gandhinagar Gujarat India,100989,2500.00
+H103,Sonakshi Sinha,F,1992-06-11,DERMATOLOGY,sinhasonakshi@gmail.com,sonakshi87,Blankit Complex Apple Street Melbourne Colony Kadapa Tamil Nadu India,213456,1900.00
+H102,Ajay Parnell,M,2001-05-17,IMMUNOLOGY,ajay2190@gmail.com,ajay77,3163 Steve Manor Apt. 962 West Danielport ND 36267 Thiruvananthapuram Kerala India,655001,1000.00

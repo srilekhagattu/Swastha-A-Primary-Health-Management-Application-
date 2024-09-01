@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="PatientHomeController">
+   <children>
+      <ImageView fitHeight="406.0" fitWidth="600.0" layoutY="-2.0">
+         <image>
+            <Image url="@Background.jpeg" />
+         </image>
+      </ImageView>
+      <Button fx:id="LogOut" defaultButton="true" layoutX="508.0" layoutY="39.0" mnemonicParsing="false" text="Log out" />
+      <Label layoutX="240.0" layoutY="34.0" prefHeight="36.0" prefWidth="120.0" text="Welcome">
+         <font>
+            <Font size="29.0" />
+         </font>
+      </Label>
+      <Button fx:id="ViewAppointments" defaultButton="true" layoutX="29.0" layoutY="104.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="188.0" text="View Appointments">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button fx:id="EditProfile" defaultButton="true" layoutX="379.0" layoutY="252.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="188.0" text="Edit Profile">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="BookAppointment" defaultButton="true" layoutX="29.0" layoutY="159.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="188.0" text="Book an Appointment">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button fx:id="CancelAppointment" defaultButton="true" layoutX="29.0" layoutY="215.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="188.0" text="Cancel Appointment">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Button>
+      <Button fx:id="SearchHospital" defaultButton="true" layoutX="379.0" layoutY="123.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="188.0" text="Search For Hospital">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="SearchDoctor" defaultButton="true" layoutX="379.0" layoutY="183.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="188.0" text="Search For Doctor">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="ViewPrescription" defaultButton="true" layoutX="29.0" layoutY="270.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="188.0" text="View Prescription">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
